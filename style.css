@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-image: url("pngtree-abstract-bg-image_914283.png");
+    background-position: center;
+    background-size: cover;
+}
+
+canvas{
+    border-width: 2px;
+    border-color: blue;
+    border-style: ridge;
+    margin: 40px;
+    background-color: white;
+}
